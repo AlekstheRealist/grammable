@@ -7,6 +7,7 @@ gem 'rails_12factor', group: :production
 # Use postgresql as the database for Active Record
 gem 'pg'
 gem 'simple_form'
+gem 'devise'
 
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.5.1'
